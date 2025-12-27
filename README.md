@@ -1,3 +1,5 @@
+
+![Janeth Cortés Banner](Linkedin.png)
 # Delivery Delay Analysis
 
 ## 👋 Overview
