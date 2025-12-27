@@ -1,48 +1,26 @@
 
 ![Janeth Cortés Banner](Linkedin.png)
-# Delivery Delay Analysis
+# 🚀 Delivery Delay Analysis
 
-## 👋 Overview
-This project focuses on analyzing delivery time data to identify operational delays, recurring patterns, and opportunities for process improvement.  
-The goal is not only to analyze data, but to translate insights into actionable decisions.
+## 👩‍🚀 Mission
+Analyze delivery time data to detect operational delays and translate insights into clear improvement actions.
 
-## 🎯 Objective
-- Identify where delivery delays occur
-- Detect factors that impact delivery performance
-- Propose improvements based on data-driven insights
+## 🔍 What was analyzed
+- Delivery times and process stages
+- Order volume and priority levels
+- Recurring patterns affecting performance
 
-## 📊 Dataset
-The dataset represents simulated operational data, including:
-- Order volume
-- Delivery times
-- Process stages
-- Priority levels
+## 💡 Key Insights
+- Delays concentrate in specific process stages
+- High-volume periods increase delivery time
+- Urgent orders lack proper prioritization
 
-This type of data is commonly found in logistics and operations environments.
+## ✅ Decisions & Actions
+- Define priority rules for urgent deliveries
+- Balance workload during peak demand
+- Track delivery KPIs continuously
 
-## ❓ Key Questions
-- At which stage do most delays happen?
-- How does order volume affect delivery time?
-- Are urgent orders being handled efficiently?
-- What patterns repeat over time?
+## 🛠 Tools
+Excel · SQL · Power BI · python · tableu
 
-## 🔍 Analysis & Insights
-- Delays are concentrated in specific process stages
-- Peak workload days significantly increase delivery time
-- Lack of prioritization negatively impacts urgent deliveries
-- Bottlenecks become visible when volume increases
-
-## ✅ Recommendations
-- Implement priority rules for urgent orders
-- Balance workload during high-volume periods
-- Track delivery time KPIs on a weekly basis
-- Use dashboards to monitor process performance
-
-## 🛠 Tools Used
-- Excel / Google Sheets
-- SQL (data exploration and queries)
-- Power BI (data visualization)
-
-## 📌 Key Takeaway
-Data analysis is most valuable when it leads to better decisions and process improvements, not just reports.
 
