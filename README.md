@@ -1,16 +1,46 @@
-## Hi there 👋
+# Delivery Delay Analysis
 
-<!--
-**janethcortes/janethcortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Overview
+This project focuses on analyzing delivery time data to identify operational delays, recurring patterns, and opportunities for process improvement.  
+The goal is not only to analyze data, but to translate insights into actionable decisions.
 
-Here are some ideas to get you started:
+## 🎯 Objective
+- Identify where delivery delays occur
+- Detect factors that impact delivery performance
+- Propose improvements based on data-driven insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Dataset
+The dataset represents simulated operational data, including:
+- Order volume
+- Delivery times
+- Process stages
+- Priority levels
+
+This type of data is commonly found in logistics and operations environments.
+
+## ❓ Key Questions
+- At which stage do most delays happen?
+- How does order volume affect delivery time?
+- Are urgent orders being handled efficiently?
+- What patterns repeat over time?
+
+## 🔍 Analysis & Insights
+- Delays are concentrated in specific process stages
+- Peak workload days significantly increase delivery time
+- Lack of prioritization negatively impacts urgent deliveries
+- Bottlenecks become visible when volume increases
+
+## ✅ Recommendations
+- Implement priority rules for urgent orders
+- Balance workload during high-volume periods
+- Track delivery time KPIs on a weekly basis
+- Use dashboards to monitor process performance
+
+## 🛠 Tools Used
+- Excel / Google Sheets
+- SQL (data exploration and queries)
+- Power BI (data visualization)
+
+## 📌 Key Takeaway
+Data analysis is most valuable when it leads to better decisions and process improvements, not just reports.
+
