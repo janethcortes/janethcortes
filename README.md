@@ -1,7 +1,6 @@
 
 ![Janeth Cortés Banner](hi.png)
 
-
 ### Data & Process Analyst  
 Decision-making · Lean Six Sigma · Systems Thinking
 
@@ -49,15 +48,7 @@ This flow represents how I approach analytics work:
 ---
 
 ## 🧰 Tools (chosen based on the problem)
-
-I don’t believe in fixed stacks.  
-I choose tools based on the decision that needs to be made.
-
-- **SQL** – data exploration and hypothesis validation  
-- **Excel** – fast analysis, modeling, and sanity checks  
-- **Power BI** – shared visibility for decision-making  
-- **Lean Six Sigma** – process improvement and variability reduction  
-- **Accounting background** – understanding financial impact behind operations
+![Janeth Cortés Banner](tools-stack.svg)
 
 ---
 
