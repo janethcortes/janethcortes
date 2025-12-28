@@ -1,5 +1,5 @@
 
-![Janeth Cortés Banner](github.png)
+![Janeth Cortés Banner](hi.png)
 
 Data Analyst focused on decision-making, process improvement, and system optimization.  
 I work with data to detect patterns, uncover inefficiencies, and translate complexity into clear actions.
