@@ -2,8 +2,11 @@
 #  Data & Process Analyst
 > **"Turning data into decisions, and processes into efficiency."**
 
-[🌐 Portfolio](https://janethcortes.com) | [💼 LinkedIn](TU_LINK)
-
+<p align="center">
+  <a href="https://janethcortes.com">
+    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-8B5CF6?style=for-the-badge&logo=react&logoColor=fff" height="40">
+  </a>
+</p>
 ---
 
 ### 🧠 Strategic Mindset
