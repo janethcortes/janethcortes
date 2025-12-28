@@ -9,6 +9,18 @@ I work with data to detect patterns, uncover inefficiencies, and translate compl
 - I focus on insights that drive decisions, not just reports
 - I value clarity, structure, and actionable outcomes
 
+- ```mermaid
+flowchart TD
+    A[Raw Data & Context] --> B[Pattern Detection]
+    B --> C[Insights]
+    C --> D[Decisions]
+    D --> E[Process Improvement]
+
+    B --- F[Systems Thinking]
+    C --- G[Clarity & Structure]
+    D --- H[Actionable Outcomes]
+
+
 ## 🚀 What I work on
 - Operational and process analysis
 - Data exploration and insight generation
