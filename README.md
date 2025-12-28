@@ -1,9 +1,5 @@
 
 ![Janeth Cortés Banner](Linkedin.png)
-<p align="center">
-  <img src="banner.png" alt="Janeth Cortés - Data Analyst" />
-</p>
-
 # 👋 Hi, I'm Janeth Cortés
 
 Data Analyst focused on decision-making, process improvement, and system optimization.  
@@ -24,5 +20,4 @@ Excel · SQL · Power BI · Process Analysis · Data Storytelling
 
 ## 🌐 Find me here
 - Portfolio: https://janethcortes.com  
-- LinkedIn: (add later)
 
