@@ -17,31 +17,33 @@
     <rect width="200" height="70" class="bg-card" />
     <text x="15" y="25" class="category-title">Data Discovery</text>
     <text x="15" y="45" class="tool-name">SQL</text>
-    <text x="15" y="60" class="label">Validación de Hipótesis</text>
+    <text x="15" y="60" class="label">Hypothesis Validation</text>
   </g>
 
   <g transform="translate(320, 60)">
     <rect width="200" height="70" class="bg-card" />
     <text x="15" y="25" class="category-title">Modeling</text>
     <text x="15" y="45" class="tool-name">EXCEL / ACCOUNTING</text>
-    <text x="15" y="60" class="label">Análisis de Impacto P&amp;L</text>
+    <text x="15" y="60" class="label">P&amp;L Impact Analysis</text>
   </g>
 
   <g transform="translate(80, 170)">
     <rect width="200" height="70" class="bg-card" />
     <text x="15" y="25" class="category-title">Optimization</text>
     <text x="15" y="45" class="tool-name">LEAN SIX SIGMA</text>
-    <text x="15" y="60" class="label">Eficiencia y Procesos</text>
+    <text x="15" y="60" class="label">Efficiency &amp; Processes</text>
   </g>
 
   <g transform="translate(320, 170)">
     <rect width="200" height="70" class="bg-card" />
     <text x="15" y="25" class="category-title">Visibility</text>
     <text x="15" y="45" class="tool-name">POWER BI</text>
-    <text x="15" y="60" class="label">Toma de Decisiones</text>
+    <text x="15" y="60" class="label">Decision-Making</text>
   </g>
 
   <circle cx="300" cy="150" r="4" class="dot" />
   
-  <text x="300" y="300" class="label" text-anchor="middle">Stack centrado en la resolución de problemas de negocio</text>
+  <text x="300" y="300" class="label" text-anchor="middle">
+    Stack focused on solving business problems
+  </text>
 </svg>
