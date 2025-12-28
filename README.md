@@ -2,12 +2,13 @@
 #  Data & Process Analyst
 > **"Turning data into decisions, and processes into efficiency."**
 
-<p align="center">
+<p align="left">
   <a href="https://janethcortes.com">
-    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-8B5CF6?style=for-the-badge&logo=react&logoColor=fff" height="40">
+    <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-1e1b4b?style=for-the-badge&logo=react&logoColor=a78bfa&labelColor=1e1b4b" height="40">
   </a>
 </p>
----
+
+
 
 ### 🧠 Strategic Mindset
 * **Decision-First:** Primero la pregunta, luego los datos.
