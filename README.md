@@ -5,18 +5,15 @@ Data Analyst focused on decision-making, process improvement, and system optimiz
 I work with data to detect patterns, uncover inefficiencies, and translate complexity into clear actions.
 
 ## 🧠 How I work
-
 ![How I work](how-i-work.svg)
-
-
 
 ## 🚀 What I work on
 - Operational and process analysis
 - Data exploration and insight generation
 - Translating business problems into analytical questions
 
-## 🛠 Tools & Skills
-Excel · SQL · Power BI · Process Analysis · Data Storytelling
+## 🛠 Tools & Stack
+![Tools stack](tools-stack.svg)
 
 ## 🌐 Find me here
 - Portfolio: https://janethcortes.com  
