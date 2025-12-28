@@ -1,36 +1,84 @@
-<svg width="700" height="320" viewBox="0 0 700 320" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .box { fill: #1e1b4b; stroke: #a78bfa; stroke-width: 2; rx: 14; }
-    .text { fill: #e9d5ff; font-family: Arial, sans-serif; font-size: 14px; }
-    .title { font-size: 16px; font-weight: bold; }
-    .arrow { stroke: #a78bfa; stroke-width: 2; marker-end: url(#arrowhead); }
-  </style>
-
+<svg width="720" height="340" viewBox="0 0 720 340" xmlns="http://www.w3.org/2000/svg">
   <defs>
+    <!-- Gradient -->
+    <linearGradient id="purpleGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+
+    <!-- Arrow -->
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
       <polygon points="0 0, 10 3.5, 0 7" fill="#a78bfa"/>
     </marker>
+
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
 
+  <style>
+    .box {
+      fill: #1e1b4b;
+      stroke: url(#purpleGlow);
+      stroke-width: 2;
+      rx: 16;
+    }
+    .focus {
+      fill: #2a215f;
+      filter: url(#glow);
+    }
+    .text {
+      fill: #ede9fe;
+      font-family: Arial, sans-serif;
+      font-size: 14px;
+    }
+    .title {
+      font-size: 16px;
+      font-weight: bold;
+    }
+    .arrow {
+      stroke: #a78bfa;
+      stroke-width: 2;
+      marker-end: url(#arrowhead);
+      opacity: 0.8;
+    }
+    .subtitle {
+      fill: #c4b5fd;
+      font-size: 13px;
+    }
+  </style>
+
   <!-- Boxes -->
-  <rect x="30" y="130" width="130" height="60" class="box"/>
-  <rect x="200" y="130" width="130" height="60" class="box"/>
-  <rect x="370" y="130" width="130" height="60" class="box"/>
-  <rect x="540" y="130" width="130" height="60" class="box"/>
+  <rect x="30" y="140" width="130" height="60" class="box"/>
+  <rect x="200" y="140" width="130" height="60" class="box"/>
+  <rect x="370" y="140" width="130" height="60" class="box"/>
+  <rect x="540" y="130" width="150" height="80" class="box focus">
+    <animate
+      attributeName="opacity"
+      values="1;0.85;1"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </rect>
 
   <!-- Text -->
-  <text x="65" y="165" class="text title">Data</text>
-  <text x="215" y="165" class="text title">Patterns</text>
-  <text x="395" y="165" class="text title">Insights</text>
-  <text x="555" y="165" class="text title">Decisions</text>
+  <text x="65" y="175" class="text title">Data</text>
+  <text x="215" y="175" class="text title">Patterns</text>
+  <text x="395" y="175" class="text title">Insights</text>
+  <text x="570" y="170" class="text title">Decisions</text>
+  <text x="565" y="190" class="text">(where impact happens)</text>
 
   <!-- Arrows -->
-  <line x1="160" y1="160" x2="200" y2="160" class="arrow"/>
-  <line x1="330" y1="160" x2="370" y2="160" class="arrow"/>
-  <line x1="500" y1="160" x2="540" y2="160" class="arrow"/>
+  <line x1="160" y1="170" x2="200" y2="170" class="arrow"/>
+  <line x1="330" y1="170" x2="370" y2="170" class="arrow"/>
+  <line x1="500" y1="170" x2="540" y2="170" class="arrow"/>
 
   <!-- Subtitle -->
-  <text x="170" y="260" class="text">
-    Systems Thinking • Continuous Improvement • Actionable Outcomes
+  <text x="170" y="290" class="subtitle">
+    Systems Thinking • Continuous Improvement • Decision-Driven Analysis
   </text>
 </svg>
