@@ -1,0 +1,32 @@
+<svg width="720" height="180" viewBox="0 0 720 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="purpleLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .label { fill: #ede9fe; font-family: Arial, sans-serif; font-size: 14px; }
+    .title { fill: #c4b5fd; font-size: 13px; }
+    .dot { fill: #a78bfa; }
+    .line { stroke: url(#purpleLine); stroke-width: 2; }
+  </style>
+
+  <!-- Line -->
+  <line x1="80" y1="90" x2="640" y2="90" class="line"/>
+
+  <!-- Dots -->
+  <circle cx="160" cy="90" r="5" class="dot"/>
+  <circle cx="300" cy="90" r="5" class="dot"/>
+  <circle cx="440" cy="90" r="5" class="dot"/>
+  <circle cx="580" cy="90" r="5" class="dot"/>
+
+  <!-- Text -->
+  <text x="130" y="60" class="label">Excel</text>
+  <text x="275" y="60" class="label">SQL</text>
+  <text x="405" y="60" class="label">Power BI</text>
+  <text x="535" y="60" class="label">Process Analysis</text>
+
+  <text x="285" y="140" class="title">Data → Insights → Decisions</text>
+</svg>
