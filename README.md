@@ -1,5 +1,5 @@
 
-![Janeth Cortés Banner](Linkedin.png)
+![Janeth Cortés Banner](github.png)
 # 👋 Hi, I'm Janeth Cortés
 
 Data Analyst focused on decision-making, process improvement, and system optimization.  
