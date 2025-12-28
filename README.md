@@ -1,9 +1,5 @@
 
 ![Janeth Cortés Banner](github.png)
-# 👋 Hi, I'm Janeth Cortés
-
-Data Analyst focused on decision-making, process improvement, and system optimization.  
-I work with data to detect patterns, uncover inefficiencies, and translate complexity into clear actions.
 
 ## 🧠 How I think
 - I approach data as a system, not isolated numbers
