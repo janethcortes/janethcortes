@@ -1,7 +1,7 @@
 
 ![Janeth Cortés Banner](hi.png)
 
-## Hi, I’m Janeth Cortés 👋  
+
 ### Data & Process Analyst  
 Decision-making · Lean Six Sigma · Systems Thinking
 
@@ -69,4 +69,3 @@ I choose tools based on the decision that needs to be made.
 
 📫 **Find me here**  
 - Portfolio: https://janethcortes.com  
-- LinkedIn: [your link here]
